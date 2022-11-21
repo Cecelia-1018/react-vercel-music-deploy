@@ -1,3 +1,6 @@
+# Run the app
+https://github.com/iPriceGroup/web/pull/7516/files
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
